@@ -1,2 +1,2 @@
 # monitoramente-de-rede
-Sistema conta com mapa onde pode cadastrar ips em diferentes regiões e monitorar o estado da maquina e informar o problema caso necessario
+Sistema web que monitora atraves de um mapa quais ips estão online em diferentes regiões e monitorar o estado da maquina e informar o problema caso necessário
